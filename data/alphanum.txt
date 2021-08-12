@@ -1,0 +1,84 @@
+un.
+deux.
+trois.
+quatre.
+quince.
+dix-huit.
+vingt-deux.
+soixante-et-onze.
+quatre-vingts.
+quatre-vingt-cinq.
+quatre-vingt-dix-huit.
+cent.
+cent-un.
+cent-deux.
+cent-trois.
+cent-quatre.
+cent-dix-huit.
+cent-vingt-deux.
+cent-soixante-douze.
+cent-quatre-vingts.
+cent-quatre-vingt-six.
+cent-quatre-vingt-dix-neuf.
+deux-cents.
+trois-cents.
+quatre-cents.
+cinq-cents.
+six-cents.
+sept-cents.
+huit-cents.
+neuf-cents.
+deux-cent euros.
+trois-cent euros.
+quatre-cent euros.
+cinq-cent euros.
+six-cent euros.
+sept-cent euros.
+huit-cent euros.
+neuf-cent euros.
+deux-cent-deux.
+trois-cent-trois.
+quatre-cent-quatre.
+cinq-cent-dix-huit.
+six-cent-vingt-deux.
+sept-cent-soixante-treize.
+huit-cent-quatre-vingt-sept.
+neuf-cent-quatre-vingt-dix-sept.
+mille.
+mille-un.
+deux-mille-deux.
+trois-mille-trois.
+mille-onze.
+deux-mille-douze.
+trois-mille-treize.
+quatre-mille-quatorze.
+cinq-mille-quince.
+six-mille-seize.
+sept-mille-dix-sept.
+mille-cent-neuf.
+mille-cent-huit.
+mille-cent-six.
+mille-cent-cinq.
+mille-cent-dix-neuf.
+mille-cent-vingt-huit.
+mille-cent-soixante-quatorze.
+mille-cent-quatre-vingts.
+mille-cent-quatre-vingt-quatre.
+mille-cent-quatre-vingt-seize.
+mille-deux-cent-deux.
+mille-trois-cent-trois.
+mille-quatre-cent-quatre.
+mille-cinq-cent-dix-huit.
+mille-six-cent-vingt-deux.
+mille-sept-cent-soixante-treize.
+mille-huit-cent-quatre-vingt-sept.
+mille-neuf-cent-quatre-vingt-dix-sept.
+deux-mille.
+deux-mille-six-cent-vingt-deux.
+trois-mille-sept-cent-soixante-treize.
+quatre-mille-huit-cent-quatre-vingt-sept.
+cinq-mille-neuf-cent-quatre-vingt-dix-sept.
+trois-mille.
+cinquième fois.
+troisième bataillon.
+dix-huitième fois.
